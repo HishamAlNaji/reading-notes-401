@@ -10,5 +10,7 @@ Read 1 | [Node Ecosystem, TDD, CI/CD](https://hishamalnaji.github.io/reading-not
 ---------|-------------
 Read 2 | [Classes, Inheritance, Functional Programming](https://hishamalnaji.github.io/reading-notes-401/read02)|
 ---------|-------------
+Read 3 | [Data Modeling & NoSQL Databases](https://hishamalnaji.github.io/reading-notes-401/read03)|
+---------|-------------
 
 
