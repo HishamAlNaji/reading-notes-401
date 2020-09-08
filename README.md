@@ -12,5 +12,7 @@ Read 2 | [Classes, Inheritance, Functional Programming](https://hishamalnaji.git
 ---------|-------------
 Read 3 | [Data Modeling & NoSQL Databases](https://hishamalnaji.github.io/reading-notes-401/read03)|
 ---------|-------------
+Read 4 | [Advanced Mongo/Mongoose](https://hishamalnaji.github.io/reading-notes-401/read04)|
+---------|-------------
 
 
