@@ -16,5 +16,7 @@ Read 3 | [Data Modeling & NoSQL Databases](https://hishamalnaji.github.io/readin
 ---------|-------------
 Read 4 | [Advanced Mongo/Mongoose](https://hishamalnaji.github.io/reading-notes-401/read04)|
 ---------|-------------
+Read 5 | [Linked Lists](https://hishamalnaji.github.io/reading-notes-401/read05)|
+---------|-------------
 
 
