@@ -20,5 +20,7 @@ Read 5 | [Linked Lists](https://hishamalnaji.github.io/reading-notes-401/read05)
 ---------|-------------
 Read 6 | [HTTP and REST](https://hishamalnaji.github.io/reading-notes-401/read06)|
 ---------|-------------
+Read 7 | [EXPRESS](https://hishamalnaji.github.io/reading-notes-401/read07)|
+---------|-------------
 
 
