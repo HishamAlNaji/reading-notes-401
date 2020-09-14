@@ -22,5 +22,7 @@ Read 6 | [HTTP and REST](https://hishamalnaji.github.io/reading-notes-401/read06
 ---------|-------------
 Read 7 | [EXPRESS](https://hishamalnaji.github.io/reading-notes-401/read07)|
 ---------|-------------
+Read 8 | [Express Routing & Connected API](https://hishamalnaji.github.io/reading-notes-401/read08)|
+---------|-------------
 
 
