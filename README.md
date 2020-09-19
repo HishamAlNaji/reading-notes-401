@@ -28,4 +28,6 @@ Read 9 | [API Server](https://hishamalnaji.github.io/reading-notes-401/read09)|
 ---------|-------------
 Read 10 | [Stacks and Queues](https://hishamalnaji.github.io/reading-notes-401/read10)|
 ---------|-------------
+Read 11 | [Authentication](https://hishamalnaji.github.io/reading-notes-401/read11)|
+---------|-------------
 
