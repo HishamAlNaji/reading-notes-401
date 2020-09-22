@@ -30,5 +30,7 @@ Read 10 | [Stacks and Queues](https://hishamalnaji.github.io/reading-notes-401/r
 ---------|-------------
 Read 11 | [Authentication](https://hishamalnaji.github.io/reading-notes-401/read11)|
 ---------|-------------
-Read 12 | [OAuth](https://hishamalnaji.github.io/reading-notes-401/read11)|
+Read 12 | [OAuth](https://hishamalnaji.github.io/reading-notes-401/read12)|
+---------|-------------
+Read 13 | [Bearer Authorization](https://hishamalnaji.github.io/reading-notes-401/read13)|
 ---------|-------------
