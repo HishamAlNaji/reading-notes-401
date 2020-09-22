@@ -34,3 +34,5 @@ Read 12 | [OAuth](https://hishamalnaji.github.io/reading-notes-401/read12)|
 ---------|-------------
 Read 13 | [Bearer Authorization](https://hishamalnaji.github.io/reading-notes-401/read13)|
 ---------|-------------
+Read 14 | [Bearer Authorization](https://hishamalnaji.github.io/reading-notes-401/read14)|
+---------|-------------
