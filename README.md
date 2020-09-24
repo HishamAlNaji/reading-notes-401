@@ -36,5 +36,5 @@ Read 13 | [Bearer Authorization](https://hishamalnaji.github.io/reading-notes-40
 ---------|-------------
 Read 14 | [Access Controls](https://hishamalnaji.github.io/reading-notes-401/read14)|
 ---------|-------------
-Read 14 | [Trees](https://hishamalnaji.github.io/reading-notes-401/read15)|
+Read 15 | [Trees](https://hishamalnaji.github.io/reading-notes-401/read15)|
 ---------|-------------
