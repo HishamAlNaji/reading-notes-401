@@ -40,3 +40,5 @@ Read 15 | [Trees](https://hishamalnaji.github.io/reading-notes-401/read15)|
 ---------|-------------
 Read 16 | [Event Driven Programming](https://hishamalnaji.github.io/reading-notes-401/read16)|
 ---------|-------------
+Read 17 | [socket.io](https://hishamalnaji.github.io/reading-notes-401/read17)|
+---------|-------------
