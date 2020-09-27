@@ -38,3 +38,5 @@ Read 14 | [Access Controls](https://hishamalnaji.github.io/reading-notes-401/rea
 ---------|-------------
 Read 15 | [Trees](https://hishamalnaji.github.io/reading-notes-401/read15)|
 ---------|-------------
+Read 16 | [Event Driven Programming](https://hishamalnaji.github.io/reading-notes-401/read16)|
+---------|-------------
