@@ -44,3 +44,5 @@ Read 17 | [TCP servers and event driven programming](https://hishamalnaji.github
 ---------|-------------
 Read 18 | [socket.io](https://hishamalnaji.github.io/reading-notes-401/read18)|
 ---------|-------------
+Read 19 | [Message Queues](https://hishamalnaji.github.io/reading-notes-401/read19)|
+---------|-------------
