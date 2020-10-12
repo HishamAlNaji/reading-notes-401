@@ -48,3 +48,5 @@ Read 19 | [Message Queues](https://hishamalnaji.github.io/reading-notes-401/read
 ---------|-------------
 Read 26 | [Component Based UI](https://hishamalnaji.github.io/reading-notes-401/read26)|
 ---------|-------------
+Read 27 | [Props and State](https://hishamalnaji.github.io/reading-notes-401/read27)|
+---------|-------------
