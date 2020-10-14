@@ -50,3 +50,5 @@ Read 26 | [Component Based UI](https://hishamalnaji.github.io/reading-notes-401/
 ---------|-------------
 Read 28 | [Component Composition](https://hishamalnaji.github.io/reading-notes-401/read28)|
 ---------|-------------
+Read 29 | [Routing](https://hishamalnaji.github.io/reading-notes-401/read29)|
+---------|-------------
