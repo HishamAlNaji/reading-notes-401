@@ -52,3 +52,5 @@ Read 28 | [Component Composition](https://hishamalnaji.github.io/reading-notes-4
 ---------|-------------
 Read 29 | [Routing](https://hishamalnaji.github.io/reading-notes-401/read29)|
 ---------|-------------
+Read 30 | [Hash Tables](https://hishamalnaji.github.io/reading-notes-401/read30)|
+---------|-------------
