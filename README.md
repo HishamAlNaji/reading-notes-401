@@ -54,3 +54,5 @@ Read 29 | [Routing](https://hishamalnaji.github.io/reading-notes-401/read29)|
 ---------|-------------
 Read 30 | [Hash Tables](https://hishamalnaji.github.io/reading-notes-401/read30)|
 ---------|-------------
+Read 31 | [Hooks API](https://hishamalnaji.github.io/reading-notes-401/read31)|
+---------|-------------
