@@ -56,3 +56,5 @@ Read 30 | [Hash Tables](https://hishamalnaji.github.io/reading-notes-401/read30)
 ---------|-------------
 Read 31 | [Hooks API](https://hishamalnaji.github.io/reading-notes-401/read31)|
 ---------|-------------
+Read 32 | [Custom Hooks](https://hishamalnaji.github.io/reading-notes-401/read32)|
+---------|-------------
