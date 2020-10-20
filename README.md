@@ -58,3 +58,5 @@ Read 31 | [Hooks API](https://hishamalnaji.github.io/reading-notes-401/read31)|
 ---------|-------------
 Read 32 | [Custom Hooks](https://hishamalnaji.github.io/reading-notes-401/read32)|
 ---------|-------------
+Read 33 | [Context API](https://hishamalnaji.github.io/reading-notes-401/read33)|
+---------|-------------
