@@ -60,3 +60,5 @@ Read 32 | [Custom Hooks](https://hishamalnaji.github.io/reading-notes-401/read32
 ---------|-------------
 Read 33 | [Context API](https://hishamalnaji.github.io/reading-notes-401/read33)|
 ---------|-------------
+Read 34 | [<Login /> and <Auth />](https://hishamalnaji.github.io/reading-notes-401/read34)|
+---------|-------------
