@@ -62,3 +62,5 @@ Read 33 | [Context API](https://hishamalnaji.github.io/reading-notes-401/read33)
 ---------|-------------
 Read 34 | [<Login /> and <Auth />](https://hishamalnaji.github.io/reading-notes-401/read34)|
 ---------|-------------
+Read 35 | [Graphs](https://hishamalnaji.github.io/reading-notes-401/read35)|
+---------|-------------
