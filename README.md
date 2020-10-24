@@ -64,3 +64,5 @@ Read 34 | [<Login /> and <Auth />](https://hishamalnaji.github.io/reading-notes-
 ---------|-------------
 Read 35 | [Graphs](https://hishamalnaji.github.io/reading-notes-401/read35)|
 ---------|-------------
+Read 36 | [Application State with Redux](https://hishamalnaji.github.io/reading-notes-401/read36)|
+---------|-------------
