@@ -66,3 +66,5 @@ Read 35 | [Graphs](https://hishamalnaji.github.io/reading-notes-401/read35)|
 ---------|-------------
 Read 36 | [Application State with Redux](https://hishamalnaji.github.io/reading-notes-401/read36)|
 ---------|-------------
+Read 37 | [Redux - Combined Reducers](https://hishamalnaji.github.io/reading-notes-401/read37)|
+---------|-------------
