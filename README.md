@@ -68,3 +68,5 @@ Read 36 | [Application State with Redux](https://hishamalnaji.github.io/reading-
 ---------|-------------
 Read 37 | [Redux - Combined Reducers](https://hishamalnaji.github.io/reading-notes-401/read37)|
 ---------|-------------
+Read 38 | [Redux - Asynchronous Actions](https://hishamalnaji.github.io/reading-notes-401/read38)|
+---------|-------------
