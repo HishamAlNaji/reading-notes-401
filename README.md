@@ -70,3 +70,5 @@ Read 37 | [Redux - Combined Reducers](https://hishamalnaji.github.io/reading-not
 ---------|-------------
 Read 38 | [Redux - Asynchronous Actions](https://hishamalnaji.github.io/reading-notes-401/read38)|
 ---------|-------------
+Read 39 | [Redux - Additional Topics](https://hishamalnaji.github.io/reading-notes-401/read39)|
+---------|-------------
