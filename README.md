@@ -72,3 +72,5 @@ Read 38 | [Redux - Asynchronous Actions](https://hishamalnaji.github.io/reading-
 ---------|-------------
 Read 39 | [Redux - Additional Topics](https://hishamalnaji.github.io/reading-notes-401/read39)|
 ---------|-------------
+Read 41 | [React Native](https://hishamalnaji.github.io/reading-notes-401/read41)|
+---------|-------------
